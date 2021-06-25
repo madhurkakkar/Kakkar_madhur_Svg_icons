@@ -1,0 +1,157 @@
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20¯px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+header {
+  background-color: #921B00;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 180px;
+  width: 80%;
+  margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+  margin-top:auto ;
+  padding-top: 0px;
+  padding-left: 10px;
+  height: 200px;
+  width: 50%;
+}
+
+.mainNav {
+  margin-left: auto;
+  padding-top: 30px;
+  padding-right: 180px;
+}
+
+.mainNav ul {
+  text-decoration: none;
+  list-style-type: none;
+  padding-left: 50px;
+}
+
+.mainNav ul li {
+  display: inline;
+  padding-right: 30px;
+}
+.mainNav ul li a {
+  color: floralwhite;
+}
+.mainNav ul li a:hover {
+  color: #336699 ;
+}
+
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20¯px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+.main {
+  margin: auto;
+  width: 1000px;
+}
+
+
+
+#mainText {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.mainHeadline {
+  font-size: 36px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#mainText p {
+  font-size: 24px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+
+.iconContainer {
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 45px;
+}
+
+img {
+  width: 256px;
+  height: 256px;
+}
+
+img:hover {
+  transform: scale(.75);
+  transition-duration: 2s;
+  opacity: 0.5;
+}
+
+.indivIcon {
+  width: 256px;
+}
+
+.iconTitle {
+  color: #336699;
+  padding-bottom: 5px;
+  padding-top: 5px;
+
+  text-align: center;
+
+}
+
+button {
+  background-color: #921B00;
+  color: white;
+  display: block;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  height: 75px;
+  margin: auto;
+  width: 150px;
+
+}
+
+#mainFooter {
+  background-color: #7C2000;
+  height: 80px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+padding-top: 30px;
+  margin-top: 45px;
+  width: 80%;
+  margin-left: auto;
+    margin-right: auto;
+  color: white;
+}
+
+#copyright p {
+  padding-top: 30px;
+  color: white;
+}

@@ -9,11 +9,11 @@ I have tried my best to show my idea of animation through my webpage.
 
 ## linking GitHub 
 * repository
-*cloning the folders to the desktop 
-*making branches to add folder and files to the GitHub 
-*git add.
-*git push.
-*pull request and merge 
+* cloning the folders to the desktop 
+* making branches to add folder and files to the GitHub 
+* git add.
+* git push.
+* pull request and merge 
 
 ## MIT license 
 © 2021 Madhur Kakkar
